@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{969B008F-8AE4-4AAC-8A0B-EA371038D920}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SistemaDeTarefas PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SistemaDeTarefas/Data/SistemaTarefasDBContext.cs">
+    <Files>
+      <File FileName="SistemaDeTarefas/Data/SistemaTarefasDBContext.cs" Line="22" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SistemaDeTarefas" expanded="True">
+            <Node name="SistemaDeTarefas" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Repositorios" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
